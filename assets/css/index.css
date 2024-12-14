@@ -54,7 +54,7 @@ body {
     line-height: 1.43;
     letter-spacing: -0.84px;
     text-align: center;
-    color: #7db1ff;
+    color: #947ef4;
 }
 
 .title_main {
@@ -144,8 +144,8 @@ body {
     justify-content: center;
     align-items: center;
     border-radius: 50%;
-    border: solid 6px #fff9ef;
-    background-color: #ffebc5;
+    border: solid 6px #f5f3ff;
+    background-color: #eeeafe;
 }
 
 .text {
@@ -206,7 +206,7 @@ body {
     line-height: 2.08;
     letter-spacing: -0.78px;
     text-align: center;
-    color: #7db1ff;
+    color: #947ef4;
 }
 
 .subtext-about-Growth {
@@ -219,7 +219,7 @@ body {
     line-height: 1.56;
     letter-spacing: -1.08px;
     text-align: center;
-    color: #7db1ff;
+    color: #947ef4;
 }
 
 .more-info {
@@ -275,7 +275,7 @@ body {
 }
 
 .orange-button {
-    background-color: #ffebc5;
+    background-color: #fdeeee;
 }
 
 .orange-button:before {
@@ -296,12 +296,12 @@ body {
     font-weight: 600;
     line-height: 1.6;
     letter-spacing: -0.9px;
-    color: #e5a341;
+    color: #f692a7;
     padding-left: 30px;
 }
 
 .blue-button {
-    background-color: #96a0c3;
+    background-color: #aa9bec;
 }
 
 .blue-button:before {

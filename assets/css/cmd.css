@@ -245,7 +245,7 @@ header {
     align-items: center;
     justify-content: center;
     border-radius: 10px;
-    background-color: #E7EDF8;
+    background-color: #eeeafe;
     padding: 2px 10px;
 }
 
@@ -287,7 +287,7 @@ header {
 
 .content-section {
     width: 307px;
-    height: 1400px;
+    height: 1650px;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -344,7 +344,7 @@ header {
 }
 
 .section-contents {
-    height: 290px;
+    height: 500px;
     align-self: stretch;
     flex-grow: 0;
     display: flex;
@@ -462,7 +462,7 @@ header {
     min-width: 60px;
     height: 36px;
     border-radius: 10px;
-    background-color: #e7edf8;
+    background-color: #eeeafe;
     display: flex;
     justify-content: center;
     align-items: left;
@@ -479,7 +479,7 @@ header {
     min-width: 60px;
     height: 36px;
     border-radius: 10px;
-    background-color: #e7edf8;
+    background-color: #eeeafe;
     display: flex;
     justify-content: center;
     align-items: left;
@@ -498,7 +498,7 @@ header {
     line-height: normal;
     letter-spacing: -0.96px;
     text-align: center;
-    color: #606ea0;
+    color: #988bda;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -506,7 +506,7 @@ header {
 }
 
 .b_feature-command .text-style-2 {
-    color: #adb8cd;
+    color: #c7bdf7;
 }
 
 .relative_action {

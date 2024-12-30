@@ -287,7 +287,7 @@ header {
 
 .content-section {
     width: 307px;
-    height: 1650px;
+    height: 1750px;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -363,7 +363,7 @@ header {
     flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
-    gap: 12px;
+    gap: 14px;
     padding: 0;
 }
 
@@ -567,5 +567,5 @@ header {
     font-family: 'Pretendard', sans-serif;
     font-size: 12px;
     color: #a6a6a6;
-    margin: 0px 0 50px 0;
+    margin: 100px 0 50px 0;
 }

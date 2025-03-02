@@ -287,7 +287,7 @@ header {
 
 .content-section {
     width: 307px;
-    height: 2000px;
+    height: 2600px;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -423,6 +423,11 @@ header {
     white-space: nowrap;
 }
 
+.y_feature-command .text-style-5 {
+    color: #FF6E1F;
+}
+
+
 .feature-info {
     display: inline-block;
     align-self: stretch;
@@ -508,6 +513,10 @@ header {
 
 .b_feature-command .text-style-2 {
     color: #c7bdf7;
+}
+
+.b_feature-command .text-style-4 {
+    color: #925DE6;
 }
 
 .relative_action {

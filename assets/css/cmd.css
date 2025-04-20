@@ -287,7 +287,7 @@ header {
 
 .content-section {
     width: 307px;
-    height: 2830px; /** 페이지 전체 길이 **/
+    height: 2800px; /** 페이지 전체 길이 **/
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
